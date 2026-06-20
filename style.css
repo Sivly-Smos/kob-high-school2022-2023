@@ -879,3 +879,15 @@ footer {
   opacity: 1;
   transform: translateY(0);
 }
+
+/* ==========================
+   MOBILE RESPONSIVE
+========================== */
+@media (max-width: 768px) {
+  /* Navigation */
+  nav {
+    padding: 1rem;
+    flex-direction: column;
+    gap: 1rem;
+  }
+}

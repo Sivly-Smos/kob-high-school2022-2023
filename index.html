@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Golden Years — Class of 2024</title>
+    <title>Golden Years — Class of 2023</title>
     <link
       href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Inter:wght@300;400;500;600&family=Dancing+Script:wght@600;700&display=swap"
       rel="stylesheet"
@@ -16,9 +16,9 @@
       <span class="nav-logo">Golden Years</span>
       <ul class="nav-links">
         <li><a href="#gallery">Gallery</a></li>
-        <li><a href="#timeline">Timeline</a></li>
+        <!-- <li><a href="#timeline">Timeline</a></li> -->
         <li><a href="#memories">Memories</a></li>
-        <li><a href="#squad">Classmates</a></li>
+        <li><a href="#squad">Teachers</a></li>
       </ul>
     </nav>
 
@@ -27,11 +27,36 @@
       <div class="hero-bg"></div>
       <div class="film-grain"></div>
       <div class="floating-photos" aria-hidden="true">
-        <img class="float-img" src="imgs/1.jpg" alt="" style="--r: -8deg" />
-        <img class="float-img" src="imgs/2.JPG" alt="" style="--r: 6deg" />
-        <img class="float-img" src="imgs/3.JPG" alt="" style="--r: 4deg" />
-        <img class="float-img" src="imgs/4.JPG" alt="" style="--r: -5deg" />
-        <img class="float-img" src="imgs/5.JPG" alt="" style="--r: 10deg" />
+        <img
+          class="float-img"
+          src="imgs/events/1.JPG"
+          alt=""
+          style="--r: -8deg"
+        />
+        <img
+          class="float-img"
+          src="imgs/events/2.JPG"
+          alt=""
+          style="--r: 6deg"
+        />
+        <img
+          class="float-img"
+          src="imgs/events/3.JPG"
+          alt=""
+          style="--r: 4deg"
+        />
+        <img
+          class="float-img"
+          src="imgs/events/4.JPG"
+          alt=""
+          style="--r: -5deg"
+        />
+        <img
+          class="float-img"
+          src="imgs/events/5.JPG"
+          alt=""
+          style="--r: 10deg"
+        />
       </div>
       <p class="hero-eyebrow">Class of 2024 · Westview High</p>
       <h1 class="hero-title">
@@ -166,7 +191,7 @@
       <div class="strip-row" style="overflow: hidden; margin-top: 4px">
         <div class="strip-track strip-track2" id="strip2">
           <div class="strip-frame">
-            <img src="imgs/1.JPG" alt="" />
+            <img src="imgs/events/1.JPG" alt="" />
           </div>
           <div class="strip-frame">
             <img
@@ -281,17 +306,17 @@
           >
             All
           </button>
-          <button class="filter-btn" onclick="filterGallery('sports', this)">
+          <!-- <button class="filter-btn" onclick="filterGallery('sports', this)">
             Sports
-          </button>
-          <button class="filter-btn" onclick="filterGallery('social', this)">
+          </button> -->
+          <!-- <button class="filter-btn" onclick="filterGallery('social', this)">
             Social
-          </button>
+          </button> -->
           <button class="filter-btn" onclick="filterGallery('trips', this)">
             Trips
           </button>
           <button class="filter-btn" onclick="filterGallery('events', this)">
-            Events
+            Groups Photos
           </button>
         </div>
       </div>
@@ -309,7 +334,7 @@
     </section>
 
     <!-- TIMELINE -->
-    <section class="timeline-section" id="timeline">
+    <!-- <section class="timeline-section" id="timeline">
       <div style="text-align: center; margin-bottom: 2rem" class="reveal">
         <p class="section-label">Four Years</p>
         <h2 class="section-title">Our <em>Journey</em></h2>
@@ -403,90 +428,84 @@
       </div>
       <div class="mg-grid reveal">
         <div class="mg-card mg-c1" onclick="openLightbox(this)">
-          <img
-            src="https://images.unsplash.com/photo-1543269865-cbf427effbad?w=800&q=80"
-            alt="Graduation ceremony"
-          />
+          <img src="imgs/events/1.JPG" alt="Graduation ceremony" />
           <div class="mg-overlay">
             <p class="mg-overlay-title">Graduation Day</p>
             <p class="mg-overlay-sub">June 2024</p>
           </div>
         </div>
         <div class="mg-card mg-c2" onclick="openLightbox(this)">
-          <img
-            src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=75"
-            alt="Friends"
-          />
+          <img src="imgs/events/2.JPG" alt="Friends" />
           <div class="mg-overlay">
             <p class="mg-overlay-title">Squad Goals</p>
             <p class="mg-overlay-sub">Always</p>
           </div>
         </div>
         <div class="mg-card mg-c3" onclick="openLightbox(this)">
-          <img
-            src="https://images.unsplash.com/photo-1518806118471-f28b20a1d79d?w=600&q=75"
-            alt="Sports"
-          />
+          <img src="imgs/events/3.JPG" alt="Sports victory" />
           <div class="mg-overlay">
             <p class="mg-overlay-title">Championship Win</p>
             <p class="mg-overlay-sub">Fall 2023</p>
           </div>
         </div>
         <div class="mg-card mg-c4" onclick="openLightbox(this)">
-          <img
-            src="https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=600&q=75"
-            alt="Study"
-          />
+          <img src="imgs/events/4.JPG" alt="Study" />
           <div class="mg-overlay">
             <p class="mg-overlay-title">Late Night Study</p>
             <p class="mg-overlay-sub">AP Season</p>
           </div>
         </div>
         <div class="mg-card mg-c5" onclick="openLightbox(this)">
-          <img
-            src="https://images.unsplash.com/photo-1461532257246-777de18cd58b?w=600&q=75"
-            alt="Concert"
-          />
+          <img src="imgs/events/5.JPG" alt="Concert" />
           <div class="mg-overlay">
             <p class="mg-overlay-title">Spring Concert</p>
             <p class="mg-overlay-sub">Spring 2023</p>
           </div>
         </div>
         <div class="mg-card mg-c6" onclick="openLightbox(this)">
-          <img
-            src="https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&q=80"
-            alt="Prom"
-          />
+          <img src="imgs/events/6.JPG" alt="Prom" />
           <div class="mg-overlay">
             <p class="mg-overlay-title">Prom Night</p>
             <p class="mg-overlay-sub">May 2024</p>
           </div>
         </div>
         <div class="mg-card mg-c7" onclick="openLightbox(this)">
-          <img
-            src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600&q=75"
-            alt="Library"
-          />
+          <img src="imgs/events/7.JPG" alt="Library" />
           <div class="mg-overlay">
             <p class="mg-overlay-title">The Library Corner</p>
             <p class="mg-overlay-sub">Our spot</p>
           </div>
         </div>
         <div class="mg-card mg-c8" onclick="openLightbox(this)">
-          <img
-            src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=600&q=75"
-            alt="Hallway"
-          />
+          <img src="imgs/events/8.JPG" alt="Hallway" />
           <div class="mg-overlay">
             <p class="mg-overlay-title">Between Classes</p>
             <p class="mg-overlay-sub">Every day</p>
           </div>
         </div>
         <div class="mg-card mg-c9" onclick="openLightbox(this)">
-          <img
-            src="https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600&q=75"
-            alt="Celebration"
-          />
+          <img src="imgs/events/9.JPG" alt="Celebration" />
+          <div class="mg-overlay">
+            <p class="mg-overlay-title">Victory Lap</p>
+            <p class="mg-overlay-sub">We made it</p>
+          </div>
+        </div>
+        <div class="mg-card mg-c9" onclick="openLightbox(this)">
+          <img src="imgs/events/10.JPG" alt="Celebration" />
+          <div class="mg-overlay">
+            <p class="mg-overlay-title">Victory Lap</p>
+            <p class="mg-overlay-sub">We made it</p>
+          </div>
+        </div>
+        <div class="mg-card mg-c9" onclick="openLightbox(this)">
+          <img src="imgs/events/11.JPG" alt="Celebration" />
+          <div class="mg-overlay">
+            <p class="mg-overlay-title">Victory Lap</p>
+            <p class="mg-overlay-sub">We made it</p>
+          </div>
+        </div>
+        <div class="mg-card mg-c9" onclick="openLightbox(this)">
+          <img src="imgs/events/12.JPG" alt="Celebration" />
           <div class="mg-overlay">
             <p class="mg-overlay-title">Victory Lap</p>
             <p class="mg-overlay-sub">We made it</p>
@@ -525,10 +544,10 @@
     <section class="squad-section" id="squad">
       <div class="reveal">
         <p class="section-label">The People</p>
-        <h2 class="section-title">Our <em>Classmates</em></h2>
+        <h2 class="section-title">Our <em>Teachers</em></h2>
         <p class="section-desc">
-          A few faces from the Class of 2024 — the people who made these halls
-          feel like home.
+          More than teachers, they were mentors, guides, and an unforgettable
+          part of our story.
         </p>
       </div>
       <div class="squad-grid reveal" id="squadGrid"></div>

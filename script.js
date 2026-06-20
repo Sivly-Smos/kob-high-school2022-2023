@@ -1,103 +1,103 @@
 /* ── DATA ── */
 const polaroids = [
-  {
-    src: "imgs/1.JPG",
-    label: "Graduation Day",
-    tag: "events",
-    color: "#E8748A",
-  },
-  {
-    src: "imgs/2.JPG",
-    label: "Graduation Day",
-    tag: "events",
-    color: "#E8748A",
-  },
+  // {
+  //   src: "imgs/1.JPG",
+  //   label: "Graduation Day",
+  //   tag: "events",
+  //   color: "#E8748A",
+  // },
+  // {
+  //   src: "imgs/2.JPG",
+  //   label: "Graduation Day",
+  //   tag: "events",
+  //   color: "#E8748A",
+  // },
   // sports
-  {
-    src: "imgs/sports/1.JPG",
-    label: "Game Day Crew",
-    tag: "sports",
-    color: "#4ECDC4",
-  },
-  {
-    src: "imgs/sports/2.JPG",
-    label: "Game Day Crew",
-    tag: "sports",
-    color: "#4ECDC4",
-  },
-  {
-    src: "imgs/sports/3.JPG",
-    label: "Game Day Crew",
-    tag: "sports",
-    color: "#4ECDC4",
-  },
-  {
-    src: "imgs/sports/4.JPG",
-    label: "Game Day Crew",
-    tag: "sports",
-    color: "#4ECDC4",
-  },
-  {
-    src: "imgs/sports/5.JPG",
-    label: "Game Day Crew",
-    tag: "sports",
-    color: "#4ECDC4",
-  },
-  {
-    src: "imgs/sports/6.JPG",
-    label: "Game Day Crew",
-    tag: "sports",
-    color: "#4ECDC4",
-  },
-  {
-    src: "imgs/sports/7.JPG",
-    label: "Game Day Crew",
-    tag: "sports",
-    color: "#4ECDC4",
-  },
-  {
-    src: "imgs/sports/8.JPG",
-    label: "Game Day Crew",
-    tag: "sports",
-    color: "#4ECDC4",
-  },
+  // {
+  //   src: "imgs/sports/1.JPG",
+  //   label: "Game Day Crew",
+  //   tag: "sports",
+  //   color: "#4ECDC4",
+  // },
+  // {
+  //   src: "imgs/sports/2.JPG",
+  //   label: "Game Day Crew",
+  //   tag: "sports",
+  //   color: "#4ECDC4",
+  // },
+  // {
+  //   src: "imgs/sports/3.JPG",
+  //   label: "Game Day Crew",
+  //   tag: "sports",
+  //   color: "#4ECDC4",
+  // },
+  // {
+  //   src: "imgs/sports/4.JPG",
+  //   label: "Game Day Crew",
+  //   tag: "sports",
+  //   color: "#4ECDC4",
+  // },
+  // {
+  //   src: "imgs/sports/5.JPG",
+  //   label: "Game Day Crew",
+  //   tag: "sports",
+  //   color: "#4ECDC4",
+  // },
+  // {
+  //   src: "imgs/sports/6.JPG",
+  //   label: "Game Day Crew",
+  //   tag: "sports",
+  //   color: "#4ECDC4",
+  // },
+  // {
+  //   src: "imgs/sports/7.JPG",
+  //   label: "Game Day Crew",
+  //   tag: "sports",
+  //   color: "#4ECDC4",
+  // },
+  // {
+  //   src: "imgs/sports/8.JPG",
+  //   label: "Game Day Crew",
+  //   tag: "sports",
+  //   color: "#4ECDC4",
+  // },
   //sports
-  {
-    src: "imgs/4.JPG",
-    label: "Prom Night",
-    tag: "events",
-    color: "#9B5DE5",
-  },
-  {
-    src: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=500&q=75",
-    label: "Science Fair",
-    tag: "academic",
-    color: "#E8B84B",
-  },
-  {
-    src: "https://images.unsplash.com/photo-1540479859555-17af45c78602?w=500&q=75",
-    label: "Lunch Break",
-    tag: "social",
-    color: "#E8748A",
-  },
-  {
-    src: "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=500&q=75",
-    label: "Cap & Gown",
-    tag: "events",
-    color: "#9B5DE5",
-  },
-  {
-    src: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=500&q=75",
-    label: "Best Friends",
-    tag: "social",
-    color: "#E8748A",
-  },
-  {
-    src: "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=500&q=75",
-    label: "Beach Trip",
-    tag: "social",
-    color: "#4ECDC4",
-  },
+  // {
+  //   src: "imgs/4.JPG",
+  //   label: "Prom Night",
+  //   tag: "events",
+  //   color: "#9B5DE5",
+  // },
+  // {
+  //   src: "",
+  //   label: "Science Fair",
+  //   tag: "academic",
+  //   color: "#E8B84B",
+  // },
+  // {
+  //   src: "",
+  //   label: "Lunch Break",
+  //   tag: "social",
+  //   color: "#E8748A",
+  // },
+  // {
+  //   src: "",
+  //   label: "Cap & Gown",
+  //   tag: "events",
+  //   color: "#9B5DE5",
+  // },
+  // {
+  //   src: "",
+  //   label: "Best Friends",
+  //   tag: "social",
+  //   color: "#E8748A",
+  // },
+  // {
+  //   src: "",
+  //   label: "Beach Trip",
+  //   tag: "social",
+  //   color: "#4ECDC4",
+  // },
   // trips
   {
     src: "imgs/trips/sr1.jpg",
@@ -197,86 +197,50 @@ const polaroids = [
   },
   // trips
 
-  {
-    src: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=500&q=75",
-    label: "Team Meeting",
-    tag: "social",
-    color: "#E8748A",
-  },
-  {
-    src: "https://images.unsplash.com/photo-1461532257246-777de18cd58b?w=500&q=75",
-    label: "Spring Concert",
-    tag: "events",
-    color: "#9B5DE5",
-  },
-  {
-    src: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=500&q=75",
-    label: "Hallway Vibes",
-    tag: "social",
-    color: "#E8748A",
-  },
-  {
-    src: "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=500&q=75",
-    label: "Diploma Moment",
-    tag: "events",
-    color: "#9B5DE5",
-  },
-  {
-    src: "https://images.unsplash.com/photo-1548690312-e3b507d8c110?w=500&q=75",
-    label: "Homecoming",
-    tag: "events",
-    color: "#9B5DE5",
-  },
+  // {
+  //   src: "",
+  //   label: "Team Meeting",
+  //   tag: "social",
+  //   color: "#E8748A",
+  // },
+  // {
+  //   src: "",
+  //   label: "Spring Concert",
+  //   tag: "events",
+  //   color: "#9B5DE5",
+  // },
+  // {
+  //   src: "",
+  //   label: "Hallway Vibes",
+  //   tag: "social",
+  //   color: "#E8748A",
+  // },
+  // {
+  //   src: "",
+  //   label: "Diploma Moment",
+  //   tag: "events",
+  //   color: "#9B5DE5",
+  // },
+  // {
+  //   src: "",
+  //   label: "Homecoming",
+  //   tag: "events",
+  //   color: "#9B5DE5",
+  // },
 ];
 
 const classmates = [
   {
-    name: "Maya Chen",
-    role: "Class President",
-    quote: '"Lead with your heart."',
-    img: "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=400&q=75",
+    name: "Vang Kimsuy",
+    role: "Chemistry Teacher",
+    quote: '"She empowers every student to succeed."',
+    img: "imgs/teachers/kimsuy.JPG",
   },
   {
-    name: "Jordan Lee",
-    role: "Valedictorian",
-    quote: '"Dream loud, work louder."',
-    img: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=75",
-  },
-  {
-    name: "Sofia Reyes",
-    role: "Prom Queen",
-    quote: '"Life is the best party."',
-    img: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&q=75",
-  },
-  {
-    name: "Marcus Jones",
-    role: "Team Captain",
-    quote: '"Push past the limit."',
-    img: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=75",
-  },
-  {
-    name: "Lily Park",
-    role: "Art Club President",
-    quote: '"Color the world different."',
-    img: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&q=75",
-  },
-  {
-    name: "Alex Rivera",
-    role: "Most Likely to Succeed",
-    quote: '"The future is ours."',
-    img: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&q=75",
-  },
-  {
-    name: "Emma Williams",
-    role: "Drama Lead",
-    quote: '"All the world\'s a stage."',
-    img: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=75",
-  },
-  {
-    name: "Tyler Brooks",
-    role: "Band Director",
-    quote: '"Music is memory."',
-    img: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=75",
+    name: "Peng Samrith",
+    role: "Khmer Language Teacher",
+    quote: '"He teaches with passion and leads with purpose."',
+    img: "imgs/teachers/somrit.JPG",
   },
 ];
 
