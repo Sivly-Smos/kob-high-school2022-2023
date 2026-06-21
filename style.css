@@ -334,7 +334,7 @@ section {
 }
 @media (max-width: 480px) {
   .polaroid-grid {
-    columns: 1;
+    columns: 2;
   }
 }
 
@@ -713,6 +713,7 @@ section {
 }
 .squad-grid {
   display: grid;
+
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   gap: 1.5rem;
   margin-top: 3rem;

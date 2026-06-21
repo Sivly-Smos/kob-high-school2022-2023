@@ -195,6 +195,261 @@ const polaroids = [
     tag: "trips",
     color: "#E8B84B",
   },
+  {
+    src: "imgs/trips/ps.JPG",
+    label: "Phnom 1500, Pursat Province",
+    tag: "trips",
+    color: "#E8B84B",
+  },
+  {
+    src: "imgs/trips/ps1.JPG",
+    label: "Phnom 1500, Pursat Province",
+    tag: "trips",
+    color: "#E8B84B",
+  },
+  //group photos
+  {
+    src: "imgs/group-photos/1.jpg",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/events/1.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/events/2.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/events/3.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/events/4.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/events/5.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/events/7.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/events/8.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/events/9.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/events/10.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/events/11.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/events/12.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/events/13.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/events/14.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/events/15.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  //// more group photos
+  {
+    src: "imgs/group-photos/2.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/3.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/4.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/5.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/6.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/7.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/8.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/9.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/10.JPEG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/11.jpg",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/12.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/13.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/14.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/15.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/16.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/17.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/18.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/19.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/20.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/21.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/22.jpg",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/23.jpg",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/25.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/26.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+  {
+    src: "imgs/group-photos/27.JPG",
+    label: "",
+    tag: "group photos",
+    color: "#9B5DE5",
+  },
+
   // trips
 
   // {
@@ -241,6 +496,20 @@ const classmates = [
     role: "Khmer Language Teacher",
     quote: '"He teaches with passion and leads with purpose."',
     img: "imgs/teachers/somrit.JPG",
+  },
+  {
+    name: "Pit Sreymao",
+    role: "History Teacher",
+    quote:
+      '"She is patient, knowledgeable, and thoughtful. She enjoys sharing stories from the past and encourages students to think critically and learn from history."',
+    img: "imgs/teachers/m.jpg",
+  },
+  {
+    name: "Mao Kimsuon",
+    role: "Biology Teacher",
+    quote:
+      '"He is curious, caring, and observant. He loves nature and science, and he encourages students to explore and understand living things."',
+    img: "imgs/teachers/kimsuon.JPG",
   },
 ];
 
@@ -373,3 +642,71 @@ const statObs = new IntersectionObserver(
   { threshold: 0.4 },
 );
 statObs.observe(document.querySelector(".stats-inner"));
+
+// style bg
+const canvas = document.getElementById("starfield");
+const ctx = canvas.getContext("2d");
+
+let stars = [];
+let animationId;
+
+const prefersReduced = window.matchMedia(
+  "(prefers-reduced-motion: reduce)",
+).matches;
+
+function resize() {
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+
+  const count = Math.floor((canvas.width * canvas.height) / 9000);
+
+  stars = [];
+
+  for (let i = 0; i < count; i++) {
+    stars.push({
+      x: Math.random() * canvas.width,
+      y: Math.random() * canvas.height,
+      r: Math.random() * 1.2 + 0.2,
+      s: Math.random() * 0.15 + 0.02,
+      o: Math.random() * 0.6 + 0.2,
+    });
+  }
+}
+
+function draw() {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+  const time = Date.now();
+
+  stars.forEach((star) => {
+    ctx.beginPath();
+
+    let flicker = star.o;
+
+    if (!prefersReduced) {
+      flicker += Math.sin(time * 0.001 * star.s * 10) * 0.15;
+    }
+
+    ctx.fillStyle = `rgba(220,235,255,${Math.max(0, flicker)})`;
+
+    ctx.arc(star.x, star.y, star.r, 0, Math.PI * 2);
+
+    ctx.fill();
+
+    if (!prefersReduced) {
+      star.y += star.s;
+
+      if (star.y > canvas.height) {
+        star.y = 0;
+        star.x = Math.random() * canvas.width;
+      }
+    }
+  });
+
+  animationId = requestAnimationFrame(draw);
+}
+
+window.addEventListener("resize", resize);
+
+resize();
+draw();
