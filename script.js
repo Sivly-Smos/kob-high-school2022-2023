@@ -511,6 +511,13 @@ const classmates = [
       '"He is curious, caring, and observant. He loves nature and science, and he encourages students to explore and understand living things."',
     img: "imgs/teachers/kimsuon.JPG",
   },
+  {
+    name: "En Sophea",
+    role: "Physics Teacher",
+    quote:
+      '"He is a friendly teacher who likes playing football. He teaches in a fun and enjoyable way, so students enjoy learning with him."',
+    img: "imgs/teachers/Sophea.JPG",
+  },
 ];
 
 /* ── BUILD POLAROIDS ── */
